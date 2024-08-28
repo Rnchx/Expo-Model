@@ -12,6 +12,22 @@ const styles = StyleSheet.create({
     backgroundColor: "#C9D4FF",
     borderRadius: 5,
   },
+    titleForm: {
+    textAlign: "center",
+    fontSize: 15,
+    fontWeight: "bold"
+  },
+  containerForm: {
+    marginTop: 5,
+    backgroundColor: "#D3D3D3",
+    padding: 10,
+    borderRadius: 3,
+  },
+  inputs: {
+    backgroundColor: "#989A91",
+    borderRadius: 3,
+    margin: 5,
+  }
 });
 
 export default styles;
